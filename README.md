@@ -61,11 +61,11 @@ Para esta configuración le dimos en "Material" y eliminamos el contenido que ti
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/5e777bd6-534b-4bae-a39c-a76109a6ff34" />
 Posteriormente le damos en "Agregar (+)" y en "Nuevo". <br>
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/55b1bd43-9ff2-485e-bb24-13e0ac7c8dc0" />
-En seguida le cambiamos el "Nombre" por "01".<br>
+En seguida renombramos el matrerial por "01".<br>
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/a76d542d-51d9-46eb-a974-45d76fb2b4ba" />
 Después seleccionamos la casilla de "Trazo" y en la opción "Color base" agregamos el color.<br>
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/6d2daa2d-e5da-4819-b41d-687531139529" />
-Para crear los demás materiales seguimos los mismos pasos. Solo que a partir de este material ya no seleccionaremos la casilla de "Trazo", si no que seleccionaremos la casilla de “Relleno” y los colores a ocupar.
+Para crear los demás materiales seguimos los mismos pasos, renombrando el material con los numeros siguientes. Solo que a partir de este material ya no seleccionaremos la casilla de "Trazo", si no que seleccionaremos la casilla de “Relleno” y los colores a ocupar.
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/5cc539f9-f547-4427-bc90-14eb56af56a4" />
 
 4. Importación de imagen de referencia<br>
@@ -77,9 +77,9 @@ Esta imagen fue escalada y se redujo su opacidad al 0.5, permitiendo dibujar enc
 5. Animación por fotogramas<br>
 La animación se realizó mediante una secuencia de 8 dibujos diferentes. Cada dibujo se colocó en cada 3 fotogramas dentro de una línea de tiempo de 24 fotogramas.<br><br>
 El proceso fue el siguiente:<br>
-Primero iremos a la opción "Tipo de editor" y seleccionaremos "línea de tiempo".
+Primero iremos a la opción "Tipo de editor" y seleccionaremos "Línea de tiempo".
  <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/bbe85343-3b62-4fa2-adb8-fe9eabf84ec5" />
-Posteriormente en el apartado de fin lo cambiamos a 24. <br>
+Posteriormente en el apartado de "Fin" lo cambiamos a 24. <br>
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/dcc0a776-cb7e-4361-abde-e5f76a470d3d" />
 Una vez de haber terminado de configurar lo anterior, comenzamos con lo siguiente: <br>
 •	Dibujar y rellenar el primer fotograma.<br>
@@ -87,7 +87,7 @@ Una vez de haber terminado de configurar lo anterior, comenzamos con lo siguient
 •	Dibujar y rellenar el siguiente.<br>
 •	Repetir el proceso hasta completar los 8 dibujos.<br><br>
 
-A continuación se explicara a detalle el proceso de dibujo y relleno del dibujo. <br>
+A continuación se explicara a detalle el proceso de trazo y relleno del dibujo. <br>
 A. Organización por capas<br>
 Se selecciono el "Stroke", y se renombro por "Mascota".<br>
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/19893f55-065f-4560-8a59-7098507b55bc" />
@@ -101,7 +101,7 @@ Ahora creamos una nueva "Capa" para hacer los trazos, para crear esta nueva capa
 Esto permitirá trabajar de forma ordenada y separar los elementos del dibujo.<br>
 
 B. Proceso de dibujo<br>
-Se utilizó el modo dibujo para trazar la figura de la mascota.<br>
+Se utilizó el "Modo dibujo" y posteriormente se selecciono la capa de "Trazo" para poder trazar la imagen.<br>
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/44ea8ad3-e96c-4a08-87dc-7792f3da1be3" />
 Después iremos a "Materiales" y seleccionamos el "Material 01" y en la parte de "Intensidad" la aumentaremos a 1.000 y en "Tamaño" a 0.015m para el grosor del trazo.<br>
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/1580a2f2-2b14-4b9a-af7d-040020384555" />
@@ -112,10 +112,10 @@ Una vez de haber configurado lo anterior, empezaremos a trazar, para ello iremos
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/0e798745-504d-43b8-93ee-8db5fd36520d" />
 
 C. Aplicación de color<br>
-Una vez terminado el trazo, se procedió a rellenar el dibujo utilizando los materiales previamente creados. Esto permitirá darle vida y detalle a la ilustración. Para ello iremos al "Stroke" y cambiaremos a "Relleno". <br>
+Una vez terminado el trazo, se procedió a rellenar el dibujo utilizando los materiales previamente creados. Esto permitirá darle vida y detalle a la ilustración. Para ello iremos al "Stroke" y cambiaremos a la capa de "Relleno". <br>
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/5cbae5c9-746f-40d6-aa26-aad33bd6b1e6" />
 
-Después nos vamos a "Material" y seleccionaremos el Material a ocupar para el relleno. Posteriormente le damos clip izquierdo sostenido en la herramienta de "Marco" y seleccionamos "línea poligonal".<br>
+Después nos vamos a "Material" y seleccionaremos el Material a ocupar para el relleno. Posteriormente le damos clip izquierdo sostenido en la herramienta de "Marco" y seleccionamos "Línea poligonal".<br>
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/2130be94-3098-4021-b1d6-a20d09b19ea7" />
 Rellenamos nuestra imagen. <br>
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/ee8cc9fa-4c2b-4c83-bd9a-00639d97e1bd" />
@@ -136,14 +136,14 @@ Posteriormente se añadieron efectos visuales para mejorar la calidad de la anim
 •	Efecto de luz (ribete)<br>
 Para ponerle efecto de luz, vamos primero a la parte de "Efectos".<br>
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/6fd59166-44b5-4186-ab03-40f47d652283" />
-Damos clic en "Efecto -> Ribete". <br>
+Damos clic en "Agregar efecto -> Ribete". <br>
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/c95e0eff-f1cb-40a8-9086-d21c8be1d478" />
-Después entramos al "Render".<br>
+Después entramos al "Render" o "Sombreado de la vista".<br>
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/a8f0234e-2d85-4f2c-9cca-c068730a6de3" />
-Le pondremos un poco de luz.<br>
+Le pondremos un poco de luz, configurándolo de la siguiente forma.<br>
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/54519528-f175-40b8-ae7d-4a4ecbe2b8aa" />
 •	Sombra<br>
-En este mismo apartado de “Efecto” le agregamos un "Nuevo efecto" dándole clip en “Sombra”. <br>
+En este mismo apartado de “Efectos” le agregamos un nuevo efecto dándole clip en “Agragr efecto-> Sombra”. <br>
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/3f3e62f0-aba9-4be8-bbdd-8889d1d200ea" />
 Y la configuramos de esta forma. <br>
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/1bad17a0-4afb-4488-b8b9-5403b325b271" />
